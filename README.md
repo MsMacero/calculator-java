@@ -11,7 +11,7 @@
 - Pentru metoda Calculate():
   - Complexitatea cognitivă este 8.
 
-
+Observatie:
 10 - Este recomandat să folosim litere mici pentru numele variabilelor și constante. De exemplu, în loc de ADDITION_SYMBOL, putem utiliza additionSymbol.
 15 - Pentru a evita confuzia, este mai bine să utilizam metoda `toString()` în loc de `ToString()`. Astfel, vom urma convenția de denumire a metodelor din Java.
 18 - Putem utiliza direct concatenarea de șiruri folosind operatorul `+`, în loc să utilizam `String.valueOf()`. De exemplu, putem înlocui return-ul cu `return "" + ADDITION_SYMBOL + MULTIPLICATION_SYMBOL + DIVISION_SYMBOL + SUBTRACTION_SYMBOL;`.
